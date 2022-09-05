@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make markating email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "New Test",
+      "details": "Blah Blah B;ah\n",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
